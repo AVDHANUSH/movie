@@ -11,7 +11,7 @@ Authentication: JWT
 Installation
 Clone the repository:
 
-git clone [https://github.com/dananya1/movie_library](https://github.com/AVDHANUSH/movie)
+git clone (https://github.com/AVDHANUSH/movie)
 cd movie-library
 Install backend dependencies:
 
